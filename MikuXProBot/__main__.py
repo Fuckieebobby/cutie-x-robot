@@ -81,7 +81,7 @@ I'm An Anime Themed Advance Group Management Bot.I have lots of handy features s
 buttons = [
     [
                         InlineKeyboardButton(
-                             text="🎗️ Summon Me",
+                             text="ᴀᴅᴅ ᴍᴇ ᴜʀ ɢʀᴏᴜᴘ",
                              url="https://t.me/MikuXProBot?startgroup=true"),
                     ],
                    [                  
